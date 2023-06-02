@@ -1,7 +1,7 @@
 # A Study in CI/CD: Deploying an ASP.NET Core Application on Azure Web App
 
 ## Web Application
-Before delving into the CI/CD details, feel free to explore the web application that we're going to discuss in this case study: [MyFirstAzureWebAppLucaMandelli](https://myfirstazurewebapplucamandelli.azurewebsites.net/).
+Before diving into the CI/CD details, feel free to explore the web application that we're going to discuss in this case study: [MyFirstAzureWebAppLucaMandelli](https://myfirstazurewebapplucamandelli.azurewebsites.net/).
 
 ## Introduction
 This case study focuses on the application of Continuous Integration/Continuous Deployment (CI/CD) methodologies in the context of a basic ASP.NET Core Razor Pages application deployed on Microsoft Azure. The CI/CD pipeline is automated using GitHub Actions, demonstrating how such methodologies can streamline the process of deploying web applications.
